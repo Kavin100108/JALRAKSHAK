@@ -1,0 +1,6 @@
+# JalRakshak Prototype - Python Testing Requirements
+# Note: The core test suite runs using standard Python libraries (unittest, csv, json, datetime)
+# without any external packages. The packages below are optional for enhanced test reporting.
+
+pytest>=7.4.0
+pytest-cov>=4.1.0
