@@ -1,4 +1,4 @@
-# JalRakshak (जल रक्षक)
+# JalRakshak
 ### Intelligent Water Quality Monitoring & Early Warning System
 
 > **A low-cost, offline-first open-source monitoring node for community water sources.**
